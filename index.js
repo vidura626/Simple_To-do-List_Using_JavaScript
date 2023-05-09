@@ -13,7 +13,6 @@ document.querySelector("#push").onclick = function () {
         </div>
     `;
   }
-
   document.querySelector("#newTask input").value = "";
 
   let buttonDelete = document.querySelectorAll(".delete");
